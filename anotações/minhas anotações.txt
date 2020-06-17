@@ -1,0 +1,77 @@
+* INFERÊNCIA LÓGIA
+Exemplo 1:
+- Todo homem é mortal
+- Sócrates é homem
+Então: Sócrates é home e mortal
+
+Exemplor 2:
+- Toda fruta é doce
+- A banana é uma fruta
+Então a banana é uma fruta doce
+
+* DEDUÇÃO E INDUÇÃO
+
+DEDUÇÃO:
+Comparação de premissas nos ajuda a DEDUZIR como correta ou errada.
+
+- P1: Todos os homens são mortais
+- P2: Sócrates é homem
+
+Agora apresentemos uma forma lógica válida:
+"TODO x é y
+z é x
+Logo, z é y"
+
+INDUÇÃO:
+Na observação do histórico, somo INDUZIDOS a acreditar que a lógica está correta ou errada
+
+- O ferro conduz eletricidade
+- ferro é metal
+- ouro conduz eletricidade
+- outo é metal
+- cobre conduz eletricidade 
+- o cobre é metal
+Logo os metais conduzem eletricidade
+
+* FORMAS DE REPRESENTAR UM ALGORITMO
+LINGUAGEM NATURAL
+Solução usando passos descritivos
+
+FLUXOGRAMA
+A solução é representada usando formas gráficas
+
+PSEUDOCÓDIGO
+É o mais próximo das linguagens de programação existentes, normalmente é usado para explicar uma solução de problemas em computação.
+
+* TIPOS DE DADOS
+Inteiro: Números, inteiros
+Real: Números, fracionários
+Caractere: Letras
+Lógico: Verdadeiro ou falso
+
+COMENTÁRIO DE LINHA E DE BLOCOS
+// - LINHAS
+/* */ - BLOCOS
+
+* TIPOS DE ESTRUTURAS DE CONTROLE
+
+Sequencial:
+Representa execução das ações de um algoritmo de forma encadeada.
+
+Condicional:
+Comandos de decisão: SE, SENÃO, ESCOLHA
+
+Repetição:
+Repetem uma ou mais ações caso uma condição estiver sendo satisfeita.
+PARA... FAÇA,
+ENQUANTO... FAÇA,
+REPITA... ATÉ
+
+* OPERAÇÕES LÓGICAS
+Negação: Na lógica usamos muito o spimbolo negação (~) para negar uma proposição.
+Conjunção: O símbolo circunflex (^) é o símbolo da conjunção, que somente temos uma verdade quando ambos os valores são verdadeiros.
+Disjunção: O símbolo (v) é o símbolo da disjunção, onde se apenas um dos operadores for verdadeiro o resultado é verdadeiro.
+Disjunção exclusiva: O símbolo (v - com risco embaixo) é o símbolo da disjunção exclusiva. Apenas uma proposição pode ser verdadeira.
+Condicional: O símbolo (->) condicional, diz que se uma proposição ocorre então temops um resultado.
+Bicondicional: O símbolo(<->) bicondicional, uma proposição é dependente de outra.
+
