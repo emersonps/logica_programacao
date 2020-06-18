@@ -1,8 +1,11 @@
+UDEMY - CURSO
+https://www.udemy.com/course/algoritmos-logica-programacao/learn/lecture/9763002#overview
+
 * INFERÊNCIA LÓGIA
 Exemplo 1:
 - Todo homem é mortal
 - Sócrates é homem
-Então: Sócrates é home e mortal
+Então: Sócrates é homem e mortal
 
 Exemplor 2:
 - Toda fruta é doce
@@ -74,4 +77,17 @@ Disjunção: O símbolo (v) é o símbolo da disjunção, onde se apenas um dos operado
 Disjunção exclusiva: O símbolo (v - com risco embaixo) é o símbolo da disjunção exclusiva. Apenas uma proposição pode ser verdadeira.
 Condicional: O símbolo (->) condicional, diz que se uma proposição ocorre então temops um resultado.
 Bicondicional: O símbolo(<->) bicondicional, uma proposição é dependente de outra.
+
+* OPERADORES RELACIONAIS
+ 
+PARA AULA, VISUALIZAR AS PALAVRAS RESERVADAS NO VISUALG
+https://visualg3.com.br/tabelas/ 
+
+<> diferente
+= igual
+< menor que
+> maior que
+
+* OPERADORES RELACIONAIS JAVASCRIPT
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators
 
